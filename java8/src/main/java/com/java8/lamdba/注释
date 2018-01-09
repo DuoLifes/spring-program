@@ -1,0 +1,19 @@
+1.双冒号运算就是Java中的[方法引用],[方法引用]的格式是
+    类名::方法名
+        注意是方法名哦，后面没有括号“()”哒。为啥不要括号，因为这样的是式子并不代表一定会调用这个方法。这种式子一般是用作Lambda表达式，Lambda有所谓懒加载嘛，不要括号就是说，看情况调用方法。
+    例如
+    表达式:person -> person.getAge();
+    可以替换成：Person::getAge
+    表达式：() -> new HashMap<>();
+    可以替换成：HashMap::new
+    这种[方法引用]或者说[双冒号运算]对应的参数类型是Function<T,R> T表示传入类型，R表示返回类型。比如表达式person -> person.getAge();
+传入参数是person，返回值是person.getAge()，那么方法引用Person::getAge就对应着Function<Person,Integer>类型。
+
+2.有以下四种形式的方法引用:
+    引用静态方法	                ContainingClass::staticMethodName
+    引用某个对象的实例方法	        containingObject::instanceMethodName
+    引用某个类型的任意对象的实例方法	ContainingType::methodName
+    引用构造方法	                ClassName::new
+
+
+3.注意：方法引用是一个Lambda表达式，其中方法引用的操作符是双冒号"::"。

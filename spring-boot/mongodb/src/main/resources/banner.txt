@@ -1,0 +1,28 @@
+================================================================================================================
+
+1.save 和 insert方法都是新增文档或者文档对象，前者新增   后者新增或者更新文档；对象名字的首字母小写变成mongodb的集合名称。
+
+2.SpringData MongoDB 提供了find方法，方便我们通过java代码实现对MongoDB的查询操作：
+        mongoTemplate.find (query, entityClass)
+        参数说明：
+        1.entityClass：实体class,也就是要把文档转换成对应的实体。
+        2.query查询语句的实现的方式有两种：
+            1>.org.springframework.data.mongodb.core.query
+            构造函数
+            Query (Criteria criteria)
+            接受的参数是org.springframework.data.mongodb.core.query.Criteria
+            Criteria是标准查询的接口，可以引用静态的Criteria.where的把多个条件组合在一起，就可以轻松地将多个方法标准和查询连接起来，
+            方便我们操作查询语句。
+            例如： 查询条件onumber="002"
+            mongoTemplate.find (new Query(Criteria.where("onumber").is("002")),entityClass)
+            多个条件组合查询时：
+            例如：onumber="002" and cname="zcy"
+            mongoTemplate.find (new Query(Criteria.where("onumber").is("002").and("cname").is("zcy")),entityClass)
+            例如：onumber="002" or cname="zcy"
+            mongoTemplate.findOne(newQuery(newCriteria().orOperator(Criteria.where("onumber").is("002"),Criteria.where("cname").is("zcy"))),entityClass);
+            我们通过Criteria的and方法，把这个条件组合一起查询
+
+
+
+
+================================================================================================================
