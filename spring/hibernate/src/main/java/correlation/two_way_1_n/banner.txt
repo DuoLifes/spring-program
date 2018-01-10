@@ -1,0 +1,7 @@
+@OneToMany
+
+对于双向1-n，推荐使用双向，而且不要用1的一端控制关联关系，双向1-n与n-1是相同的。
+
+n的一端加注解@joinColumn映射外键列，用来控制关联关系，1的一端指定mappedBy属性，用来放弃控制关联关系。
+对于制定了mappedBy属性的@Onetomany、@manytomany、@onetoone注解，都不能与@jointable、@joincolumn一起使用。
+

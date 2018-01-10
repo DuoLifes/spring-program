@@ -1,0 +1,4 @@
+@OneToMany
+对于单向1-n，性能低的原因是，使用1的一端控制关联关系时，由于插入的数据无法同时插入外键列，因此会额外的对出一条update语句，而且外键列还无法增加非空约束。
+    先insert person 在insert address ，在update address。
+

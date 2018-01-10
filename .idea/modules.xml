@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring/hibernate/hibernate.iml" filepath="$PROJECT_DIR$/spring/hibernate/hibernate.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot/jpa/jpa.iml" filepath="$PROJECT_DIR$/spring-boot/jpa/jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot/mongodb/mongodb.iml" filepath="$PROJECT_DIR$/spring-boot/mongodb/mongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />

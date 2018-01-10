@@ -5,7 +5,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
- * Create with com.spring.boot.mongodb.entiy
+ * Create with com.spring.boot.mongodb.entity
  *
  * @author zhangpeiyu
  * @version 2018/1/9 10:36

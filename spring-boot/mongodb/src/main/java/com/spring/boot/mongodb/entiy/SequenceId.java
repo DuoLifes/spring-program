@@ -5,7 +5,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
 /**
- * Create with com.spring.boot.mongodb.entiy
+ * Create with com.spring.boot.mongodb.entity
  *
  * @author zhangpeiyu
  * @version 2018/1/9 10:34

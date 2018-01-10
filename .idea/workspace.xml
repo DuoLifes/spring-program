@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44901f7f-a7c6-4aad-be6f-aa074a8bdd38" name="Default" comment="" />
+    <list default="true" id="44901f7f-a7c6-4aad-be6f-aa074a8bdd38" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/hibernate_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/hibernate_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_2_12_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/JpaApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/entity/Persion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/entity/Province.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/repository/PersionReponsitory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/rest/api/PersionAPI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/service/PersionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot/jpa/src/test/java/com/spring/jpa/JpaApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/hibernate.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/hibernate/src/main/resources/banner.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot/src/main/java/com/spring/boot/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot/src/test/java/com/spring/boot/AppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot/target/classes/com/spring/boot/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud/src/main/java/com/spring/cloud/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud/src/test/java/com/spring/cloud/AppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring/src/main/java/com/spring/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring/src/test/java/com/spring/AppTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Partner.java" afterPath="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Partner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/SequenceId.java" afterPath="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/SequenceId.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Student.java" afterPath="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot/pom.xml" afterPath="$PROJECT_DIR$/spring-boot/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/pom.xml" afterPath="$PROJECT_DIR$/spring/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/spring.iml" afterPath="$PROJECT_DIR$/spring/spring.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot/target/" />
@@ -9,6 +113,8 @@
     <ignored path="$PROJECT_DIR$/spring/target/" />
     <ignored path="$PROJECT_DIR$/java8/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot/mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot/jpa/target/" />
+    <ignored path="$PROJECT_DIR$/spring/hibernate/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,58 +134,57 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
-          </provider>
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+            <state relative-caret-position="345">
+              <caret line="25" column="91" lean-forward="false" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="84" lean-forward="false" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/banner.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PartnerAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/api/PartnerAPI.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#680#681#0" expanded="false" />
-                <element signature="e#726#727#0" expanded="false" />
-                <element signature="e#801#802#0" expanded="false" />
-                <element signature="e#847#848#0" expanded="false" />
-                <element signature="e#926#927#0" expanded="false" />
-                <element signature="e#960#961#0" expanded="false" />
-                <element signature="e#1397#1398#0" expanded="false" />
-                <element signature="e#1440#1441#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PartnerService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/service/PartnerService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1130#1131#0" expanded="true" />
-                <element signature="e#1181#1182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MongodbApplicationTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/test/java/com/spring/boot/mongodb/MongodbApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="390">
+              <caret line="30" column="108" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="30" selection-end-column="108" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -87,16 +192,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MongodbApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/MongodbApplication.java">
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="91" lean-forward="false" selection-start-line="24" selection-start-column="91" selection-end-line="24" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/resources/banner.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#253#254#0" expanded="false" />
-                <element signature="e#313#314#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="33" column="102" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="33" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/banner.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,34 +285,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/banner.txt" />
-        <option value="$PROJECT_DIR$/spring/pom.xml" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/stream/注释" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/stream/StreamDemo.java" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/stream/stream基本操作" />
-        <option value="$PROJECT_DIR$/java8/pom.xml" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/lamdba/pojo/Person.java" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/lamdba/pojo/ComparisonProvider.java" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/lamdba/注释" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/java8/src/main/java/com/java8/lamdba/LamdbaDemo.java" />
-        <option value="$PROJECT_DIR$/spring-boot/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Comment.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Baike.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/controller/BaikeController.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Customer.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomerRedisRepository.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomizeCustomerRedisRepository.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/RedisConf.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/SerializeUtil.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/EntityRedisSerializer.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/RedisCacheConf.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/SequenceId.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/interf/AutoValue.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/listener/SaveEventListener.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Student.java" />
-        <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Partner.java" />
         <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/PartnerRepository.java" />
         <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomerMongoRepository.java" />
         <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomizeCustomerMongoRepository.java" />
@@ -177,6 +296,46 @@
         <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/RestFulTest.java" />
         <option value="$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/api/PartnerAPI.java" />
         <option value="$PROJECT_DIR$/spring-boot/mongodb/src/test/java/com/spring/boot/mongodb/MongodbApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/repsotory/PersionReponsitory.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/repository/PersionReponsitory.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/service/PersionService.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/rest/api/PersionAPI.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/test/java/com/spring/jpa/JpaApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/entity/Province.java" />
+        <option value="$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/entity/Persion.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Persion.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Address.java" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Main.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/Address.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Address.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/Address.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Address.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Address.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/banner.txt" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Person.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Address.java" />
+        <option value="$PROJECT_DIR$/spring/hibernate/src/main/resources/banner.txt" />
       </list>
     </option>
   </component>
@@ -260,9 +419,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -285,7 +443,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot" />
+              <option name="myItemId" value="spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,45 +457,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot" />
+              <option name="myItemId" value="spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springprogram" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-program" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
+              <option name="myItemId" value="hibernate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,11 +475,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot" />
+              <option name="myItemId" value="spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
+              <option name="myItemId" value="hibernate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -377,45 +501,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot" />
+              <option name="myItemId" value="spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springprogram" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-program" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
+              <option name="myItemId" value="hibernate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -431,21 +521,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mongodb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
+              <option name="myItemId" value="correlation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41367808" />
@@ -454,13 +541,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="SearchEverywhereHistoryKey" value="springboot&#9;FILE&#9;file:///Users/zhangpeiyu/spring-program/spring-boot/spring-boot.iml" />
+    <property name="SearchEverywhereHistoryKey" value="name&#9;PSI&#9;JAVA://javax.lang.model.element.Name&#10;springboot&#9;FILE&#9;file:///Users/zhangpeiyu/spring-program/spring-boot/spring-boot.iml" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Mysql" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.spring.boot.mongodb.Repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n" />
+      <recent name="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n" />
+      <recent name="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1" />
+      <recent name="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n" />
+      <recent name="$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n" />
     </key>
   </component>
   <component name="Regex">
@@ -660,33 +754,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MongodbApplicationTests.findItem">
-    <configuration default="false" name="MongodbApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.spring.boot.mongodb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mongodb" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.spring.boot.mongodb" />
-      <option name="MAIN_CLASS_NAME" value="com.spring.boot.mongodb.MongodbApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.JpaApplication">
     <configuration default="false" name="MongodbApplicationTests.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -778,6 +846,32 @@
       <option name="PACKAGE_NAME" value="com.spring.boot.mongodb" />
       <option name="MAIN_CLASS_NAME" value="com.spring.boot.mongodb.MongodbApplicationTests" />
       <option name="METHOD_NAME" value="findItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="JpaApplicationTests.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.spring.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jpa" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.spring.jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.jpa.JpaApplicationTests" />
+      <option name="METHOD_NAME" value="create" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1206,21 +1300,29 @@
       <envs />
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="JpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.jpa.JpaApplication" />
+      <module name="jpa" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.MongodbApplication" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.contextLoads" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.JpaApplication" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.create" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.findList" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.modify" />
       <item index="5" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.findItem" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.JpaApplicationTests.create" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.findItem" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.findList" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.modify" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.create" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.contextLoads" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.JpaApplicationTests.create" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.findItem" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.findList" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.modify" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MongodbApplicationTests.create" />
       </list>
     </recent_temporary>
   </component>
@@ -1254,6 +1356,10 @@
       <workItem from="1515490766594" duration="194000" />
       <workItem from="1515492211618" duration="33000" />
       <workItem from="1515492247712" duration="14000" />
+      <workItem from="1515499824850" duration="710000" />
+      <workItem from="1515500542875" duration="7485000" />
+      <workItem from="1515509214331" duration="6293000" />
+      <workItem from="1515547274980" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1515490894381</created>
@@ -1266,8 +1372,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MongodbApplicationTests_findList - 2018.01.09 at 17h 13m 46s.xml">
-      <configuration name="MongodbApplicationTests.findList" configurationId="JUnit" />
+    <history-entry file="JpaApplicationTests_create - 2018.01.09 at 21h 33m 23s.xml">
+      <configuration name="JpaApplicationTests.create" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MongodbApplicationTests_findList - 2018.01.09 at 17h 14m 19s.xml">
       <configuration name="MongodbApplicationTests.findList" configurationId="JUnit" />
@@ -1298,18 +1404,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34591000" />
+    <option name="totallyTimeSpent" value="49150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1435" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987261" sideWeight="0.5053841" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950467" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21177316" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21751615" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1322,12 +1427,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25699928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25699928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Restore Sql" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1338,11 +1442,14 @@
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32738853" sideWeight="0.49461594" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32738853" sideWeight="0.49461594" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1372,342 +1479,378 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-program.iml">
+    <entry file="file://$PROJECT_DIR$/spring-boot/jpa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/JpaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/repository/PersionReponsitory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/entity/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot/jpa/src/main/java/com/spring/jpa/entity/Persion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.12.Final/hibernate-core-5.2.12.Final.jar!/org/hibernate/internal/SessionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="209" column="25" lean-forward="true" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/banner.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/banner.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="82" column="42" lean-forward="false" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java8/src/main/java/com/java8/lamdba/LamdbaDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/controller.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/controller/BaikeController.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE.jar!/org/springframework/data/mongodb/repository/MongoRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/controller/CustomerMongoRepository.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE.jar!/org/springframework/data/mongodb/core/MongoTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="109" column="26" lean-forward="false" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/repository/NoRepositoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="151" column="86" lean-forward="false" selection-start-line="151" selection-start-column="86" selection-end-line="151" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomizeCustomerRedisRepository.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomerRedisRepository.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/SerializeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/EntityRedisSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="13" column="67" lean-forward="false" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/RedisConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="87" column="35" lean-forward="false" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/configarution/RedisCacheConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/listener/SaveEventListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="58" column="38" lean-forward="false" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/SequenceId.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Comment.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Baike.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Customer.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/interf/AutoValue.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomerMongoRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/domain/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="68" column="38" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/resources/banner.txt">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_1/haslinkedtable/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/repository/PagingAndSortingRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomizeCustomerMongoRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="74" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/CriteriaDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="78" column="31" lean-forward="false" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/PartnerRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/MongoRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/Repository/CustomizePartnerMongoRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/test/web/servlet/MockMvc.class">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/mock/web/MockHttpServletResponse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/RestFulTest.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/MongodbApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#253#254#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/entiy/Partner.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/banner.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        <state relative-caret-position="30">
+          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/banner.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/service/PartnerService.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/haslinkedtable/Address.java" />
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/haslinkedtable/Person.java" />
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/haslinkedtable/banner.txt" />
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#799#808#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/main/java/com/spring/boot/mongodb/api/PartnerAPI.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_1_n/haslinkedtable/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="405">
+          <caret line="31" column="108" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="31" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_n/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="150" lean-forward="false" selection-start-line="24" selection-start-column="150" selection-end-line="24" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="29" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="98" lean-forward="false" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_n/haslinkedtable/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/one_way_n_1/haslinkedtable/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#680#681#0" expanded="false" />
-            <element signature="e#726#727#0" expanded="false" />
-            <element signature="e#801#802#0" expanded="false" />
-            <element signature="e#847#848#0" expanded="false" />
-            <element signature="e#926#927#0" expanded="false" />
-            <element signature="e#960#961#0" expanded="false" />
-            <element signature="e#1397#1398#0" expanded="false" />
-            <element signature="e#1440#1441#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot/mongodb/src/test/java/com/spring/boot/mongodb/MongodbApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/banner.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="102" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="33" selection-end-column="102" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_n_n/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="91" lean-forward="false" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="84" lean-forward="false" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="108" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="30" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/java/correlation/two_way_1_1/haslinkedtable/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="91" lean-forward="false" selection-start-line="24" selection-start-column="91" selection-end-line="24" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/hibernate/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+          <folding />
         </state>
       </provider>
     </entry>

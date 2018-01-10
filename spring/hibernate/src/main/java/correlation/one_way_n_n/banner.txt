@@ -1,0 +1,10 @@
+在所有基于外键约束的关联关系中，要么先持久化主表对应的实体，要么设置级联操作。否则会抛出异常TransientObjectException异常。
+
+
+@ManyToMany
+    属性：
+        cascade：非必须，CascadeType.ALL：将所有之久化操作都级联到关联关系中；CascadeType.MERGE：将merge操作级联到关联实体中；
+        fetch：非必须，FetchType.EAGER：抓取实体时立即抓取关联对象；FetchType.LAZY延迟抓取关联实体，默认值，等到真正用到才去抓取。
+
+
+n-n关联必须使用关联表。
