@@ -11,8 +11,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.Iterator;
+import java.util.List;
 
 /**
  * Create with com.spring.boot.rest.api
@@ -54,13 +56,15 @@ public class ArticleAPI {
     }
 
     @GetMapping
-    public void searchKeyword() {
+    public List<Article> searchKeyword() {
         String queryString = "springboot";//搜索关键字
         QueryStringQueryBuilder builder = new QueryStringQueryBuilder(queryString);
         Iterable<Article> searchResult = articleSearchRepository.search(builder);
         Iterator<Article> iterator = searchResult.iterator();
+        List<Article> articles = new ArrayList<>();
         while (iterator.hasNext()) {
-            System.out.println(iterator.next());
+            articles.add(iterator.next());
         }
+        return articles;
     }
 }

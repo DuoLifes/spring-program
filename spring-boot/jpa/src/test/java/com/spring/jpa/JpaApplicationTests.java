@@ -40,7 +40,6 @@ public class JpaApplicationTests {
 		partner.setPersionId(UUID.randomUUID().toString());
 		partner.setPersionName("张佩宇");
 		partner.setPersionAge(25);
-		partner.setProvinceId("aaa");
 
 		String jsonstr = JSON.toJSON(partner).toString();
 		System.out.println("================================请求入参："+jsonstr);

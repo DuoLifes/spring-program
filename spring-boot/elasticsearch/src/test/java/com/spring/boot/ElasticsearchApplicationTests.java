@@ -58,4 +58,31 @@ public class ElasticsearchApplicationTests {
 		System.out.println(content);
 	}
 
+	@Test
+	public void search() throws Exception {
+
+		String uri = "/api/article";
+
+		//====================================请求开始=================================
+		//request构建
+		RequestBuilder request = MockMvcRequestBuilders.get(uri)
+				.contentType(MediaType.APPLICATION_JSON)
+				.header("SESSIONNO", "");
+		// 执行请求
+		MvcResult mvcResult = mockMvc.perform(request).andReturn() ;
+
+		//获取response
+		MockHttpServletResponse response = mvcResult.getResponse();
+		//====================================请求结束=================================
+
+		int status = response.getStatus();
+		String content = response.getContentAsString();
+
+		Assert.assertTrue("正确", status == 200);
+		Assert.assertFalse("错误", status != 200);
+
+		System.out.println("返回结果："+status);
+		System.out.println(content);
+	}
+
 }

@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/spring-boot/mongodb/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot/elasticsearch/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
