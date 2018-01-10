@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot/custom-parser/custom-parser.iml" filepath="$PROJECT_DIR$/spring-boot/custom-parser/custom-parser.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot/elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/spring-boot/elasticsearch/elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/hibernate/hibernate.iml" filepath="$PROJECT_DIR$/spring/hibernate/hibernate.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud/spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-program.iml" filepath="$PROJECT_DIR$/spring-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/springcontroller/springcontroller.iml" filepath="$PROJECT_DIR$/spring/springcontroller/springcontroller.iml" />
     </modules>
   </component>
 </project>
