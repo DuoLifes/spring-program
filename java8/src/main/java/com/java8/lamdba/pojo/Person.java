@@ -9,7 +9,6 @@ import java.util.Date;
  * @version 2018/1/3 16:12
  */
 public class Person {
-
     public enum Sex{
         MALE,FEMALE
     }
